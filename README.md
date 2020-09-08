@@ -1,3 +1,3 @@
 # AI-DeepLearning-Compendium
 
-This project serves as a brief summary of knowl
+This project serves as a brief summary of knowledge points relate
