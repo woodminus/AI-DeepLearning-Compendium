@@ -5,4 +5,4 @@ This project serves as a brief summary of knowledge points related to artificial
 The repository provides various useful resources such as:
 - Collections of papers
 - Useful links to advanced research
-- Note
+- Notes on previously held confere
