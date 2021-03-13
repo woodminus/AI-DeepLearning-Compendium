@@ -6,4 +6,4 @@ The repository provides various useful resources such as:
 - Collections of papers
 - Useful links to advanced research
 - Notes on previously held conferences and panels
-- Tool
+- Tools recommendations for various
