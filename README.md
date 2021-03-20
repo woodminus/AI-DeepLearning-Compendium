@@ -6,4 +6,5 @@ The repository provides various useful resources such as:
 - Collections of papers
 - Useful links to advanced research
 - Notes on previously held conferences and panels
-- Tools recommendations for various data science-related
+- Tools recommendations for various data science-related tasks
+- Comprehensive list
