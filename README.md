@@ -7,4 +7,5 @@ The repository provides various useful resources such as:
 - Useful links to advanced research
 - Notes on previously held conferences and panels
 - Tools recommendations for various data science-related tasks
-- Comprehensive lists of available datasets fo
+- Comprehensive lists of available datasets for AI research
+- Reading lis
