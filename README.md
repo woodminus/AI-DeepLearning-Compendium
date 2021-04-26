@@ -8,4 +8,4 @@ The repository provides various useful resources such as:
 - Notes on previously held conferences and panels
 - Tools recommendations for various data science-related tasks
 - Comprehensive lists of available datasets for AI research
-- Reading lis
+- Reading lists from other author
