@@ -10,4 +10,4 @@ The repository provides various useful resources such as:
 - Comprehensive lists of available datasets for AI research
 - Reading lists from other authors
 
-We also offer writing skills segment to help refine project presentation in the AI field, alongside a compilation
+We also offer writing skills segment to help refine project presentation in the AI field, alongside a compilation of information o
