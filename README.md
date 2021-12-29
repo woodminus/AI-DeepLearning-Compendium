@@ -12,4 +12,4 @@ The repository provides various useful resources such as:
 
 We also offer writing skills segment to help refine project presentation in the AI field, alongside a compilation of information on a plethora of related online courses available.
 
-Please note that all the information mentioned or link
+Please note that all the information mentioned or linked to this reposi
