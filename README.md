@@ -12,4 +12,4 @@ The repository provides various useful resources such as:
 
 We also offer writing skills segment to help refine project presentation in the AI field, alongside a compilation of information on a plethora of related online courses available.
 
-Please note that all the information mentioned or linked to this repository is for educational purposes. None of the original authors or contributors are associated with this project. The new owner of this repository is `woodminus`, and this project is open 
+Please note that all the information mentioned or linked to this repository is for educational purposes. None of the original authors or contributors are associated with this project. The new owner of this repository is `woodminus`, and this project is open source under standard lice
