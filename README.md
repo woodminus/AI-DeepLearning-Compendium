@@ -14,4 +14,4 @@ We also offer writing skills segment to help refine project presentation in the 
 
 Please note that all the information mentioned or linked to this repository is for educational purposes. None of the original authors or contributors are associated with this project. The new owner of this repository is `woodminus`, and this project is open source under standard licenses. Please adhere to the respective licenses when using content from this repository or its links. 
 
-Useful queries can be made
+Useful queries can be made via raising an issue on th
