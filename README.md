@@ -16,4 +16,4 @@ Please note that all the information mentioned or linked to this repository is f
 
 Useful queries can be made via raising an issue on this repository. Source contributions are also welcome.
 
-**Let's share knowledge
+**Let's share knowledge and grow together i
